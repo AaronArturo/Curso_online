@@ -1,0 +1,77 @@
+23 67
+ <a style="color:white" class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+               <h6> Principiantes</h6>
+             </a>
+             <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                <li><a class="dropdown-item" href="#">HTML</a></li>
+                <li><a class="dropdown-item" href="#">CSS</a></li>
+                <li><a class="dropdown-item" href="#">JavaScript</a></li>
+                <li><a class="dropdown-item" href="#">PHP</a></li>
+              </ul>
+            </div>
+            <div class="col-2">
+              <a style="color:black" class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                Cursos
+              </a>
+              <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                <li><a class="dropdown-item" href="#">Servidores</a></li>
+                <li><a class="dropdown-item" href="#">Gestores Escolares</a></li>
+                <li><a class="dropdown-item" href="#">Gestores de Cobros</a></li>
+              </ul>
+            </div>
+            <div class="col-2">
+              <a style="color:black" class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                Tienda
+              </a>
+              <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenu Link">
+                <li><a class="dropdown-item" href="#">Software</a></li>
+                <li><a class="dropdown-item" href="#">Cursos</a></li>
+                <li><a class="dropdown-item" href="#">Talleres</a></li>
+              </ul>
+            </div>
+            <div class="col-3">
+              <a style="color:black" class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                Cursos gratis
+              </a>
+              <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                <li><a class="dropdown-item" href="#">Introduccion a la programacion</a></li>
+                <li><a class="dropdown-item" href="#">Fundamentos de programacion</a></li>
+                <li><a class="dropdown-item" href="#">Base de Datos Introduccion</a></li>
+                <li><a class="dropdown-item" href="#">Hardware</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+
+
+        Fecha de examenes:
+        Parcial 1: Martes 13 de junio 18:00-20:00 PRIMERA ENTREGA PLATAFORMA
+        -entregar base de datos y estructura, toda la interfaz
+        del 13 en adelante viene tema examenes, cuestionarios, videos, 
+        Parcial 2:  25 de julio 
+        -Entrega de PLATAFORMA con todo contenido
+        Final: 14  de agosto
+        -Entrega final
+
+
+Fecha de en
+Lunes 12 de junio - Graficas x compu de 6 a 8
+Marte 13  de junio programacion orientada a objetos
+Miercoles 14 de junio desarollo 7a 8
+jueves prof avanzado de 5 a 7
+viernes herramientas de 4 a 6
+
+Segundo parcial del 24 al 28 de julio
+ggrficas
+programacion
+desarrolo empresarias web 7 8
+programacionavanxasa 5 a 7
+herramientas 4 a 6
+
+Finales 
+lunes 14 POO
+martes herramientas
+miercoles Graficas
+jueves programacionavanxasa
+viernes desarrolo

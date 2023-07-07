@@ -1,0 +1,29 @@
+
+.color-menu{
+    background-color: rgb(95, 7, 107);
+}
+
+.inicio{
+    padding: 10px 0 5px 0;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: rgb(255, 255, 255);
+}
+
+.boton-registro{
+    background-color: rgb(253, 229, 7);
+    padding: 5px;
+    margin: 10px 0px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    border: 1px white solid;
+    border-radius: 7px;
+}
+
+.img{
+    width: 100px;
+    height: 100px;
+}
+
+.textoB{
+    color: white;
+}
